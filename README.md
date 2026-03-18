@@ -1,4 +1,4 @@
-# Hi, I'm Ireoluwa
+# Hi, I'm Ireoluwa Ajibulu
 
 **DevOps Engineer in Training · Linux Enthusiast · Technical Writer**
 
