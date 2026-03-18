@@ -12,7 +12,7 @@
 ---
 About Me
 I'm a DevOps engineer in training based in Nigeria, building real hands-on skills from the ground up.
-I believe in learning by doing — every command I run, every script I write, every project I deploy ends up here.
+I believe in learning by doing, every command I run, every script I write, every project I deploy ends up here.
 Currently learning: Linux, Bash scripting, AWS, Terraform, Docker & CI/CD pipelines
 Building: Infrastructure projects and automation scripts
 Writing about my journey on Medium (@SoftGirlTech)
