@@ -39,7 +39,7 @@ I believe in learning by doing, every command I run, every script I write, every
 
 | Project | Description | Stack |
 |---|---|---|
-| [Linux Commands Cheatsheet](https://github.com/Ireoluwa-Ajibulu/linux-commands-cheatsheet) | A living document of Linux commands I'm learning — updated regularly | Markdown, Linux |
+| [Linux Command Journal](https://github.com/Ireoluwa-Ajibulu/linux-command-journal.git) | A living document of Linux commands I'm learning — updated regularly | Markdown, Linux |
 
 ---
 
